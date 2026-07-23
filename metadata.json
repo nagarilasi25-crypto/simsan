@@ -1,0 +1,6 @@
+{
+  "name": "SIMSAN - Sistem Informasi Manajemen Santri",
+  "description": "Sistem Informasi Induk Santri (NISN Santri) Enterprise untuk Pondok Pesantren, Rumah Tahfidz, TPQ, Madrasah Diniyah, dan Lembaga Al-Qur'an.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
